@@ -22,3 +22,9 @@
 **Today's Progress**: Started a portfolio 
 
 **Thoughts** Turns out i am remembering things better than i thought.
+
+### Day 4: July 16, 2020
+
+**Today's Progress**: Churned out more css exercises
+
+**Thoughts** did'nt do much today but still got some work done it feels like
